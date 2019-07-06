@@ -5,7 +5,6 @@ module.exports = function() {
 
     function setValue (key, value){
         myVault[key] = value;
-        // console.log(myVault);
     };
 
     function getValue (key){
